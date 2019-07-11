@@ -1,5 +1,5 @@
 {
-  "name": "diff-checker",
+  "name": "filer_directory_diff_checker",
   "version": "1.0.0",
   "description": "",
   "main": "diff_checker.js",
